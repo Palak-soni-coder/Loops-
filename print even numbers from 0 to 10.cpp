@@ -1,6 +1,7 @@
 //EXPERIMENT-6
 //Palak Soni
 //24070123069
+//Problem statement- Write a program using for loop to print even numbers from 0 to 10.
 //ENTC A3
 
 #include <iostream>
